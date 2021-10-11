@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Navbar from './Navbar';
+import Shop from './Shop';
 function App() {
   return (
    <>
-   <h2>Hi Everyone</h2>
-   </>
+   <Navbar/>
+   <Shop/>
+ </>
   );
 }
 export default App;
