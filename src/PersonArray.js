@@ -1,0 +1,68 @@
+ const PersonArray = [
+    {
+      id: 1,
+      name: "Yash",
+      last: "Shivhare",
+      age: 20,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 2,
+      name: "Sarthak",
+      last: "Shukla",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 3,
+      name: "Harshit",
+      last: "Tomar",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 4,
+      name: "Harry",
+      last: "Potter",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 5,
+      name: "Joseph",
+      last: "Morgan",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 6,
+      name: "Ron",
+      last: "Weasly",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 7,
+      name: "Gennady",
+      last: "Korotwich",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+    {
+      id: 8,
+      name: "Kartik",
+      last: "Aryan",
+      age: 30,
+      text: "See Last Name",
+      flag: false,
+    },
+  ];
+  
+  export default PersonArray
